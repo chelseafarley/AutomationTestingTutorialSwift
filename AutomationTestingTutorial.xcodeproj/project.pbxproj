@@ -14,6 +14,7 @@
 		5EDE26442AAA649200B4690A /* AutomationTestingTutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDE26432AAA649200B4690A /* AutomationTestingTutorialTests.swift */; };
 		5EDE264E2AAA649200B4690A /* AutomationTestingTutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDE264D2AAA649200B4690A /* AutomationTestingTutorialUITests.swift */; };
 		5EDE26502AAA649200B4690A /* AutomationTestingTutorialUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDE264F2AAA649200B4690A /* AutomationTestingTutorialUITestsLaunchTests.swift */; };
+		5EDE265D2AAA64BF00B4690A /* TestFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EDE265C2AAA64BF00B4690A /* TestFunctions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		5EDE26492AAA649200B4690A /* AutomationTestingTutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutomationTestingTutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EDE264D2AAA649200B4690A /* AutomationTestingTutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutomationTestingTutorialUITests.swift; sourceTree = "<group>"; };
 		5EDE264F2AAA649200B4690A /* AutomationTestingTutorialUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutomationTestingTutorialUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5EDE265C2AAA64BF00B4690A /* TestFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFunctions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				5EDE26342AAA649100B4690A /* ContentView.swift */,
 				5EDE26362AAA649200B4690A /* Assets.xcassets */,
 				5EDE26382AAA649200B4690A /* Preview Content */,
+				5EDE265C2AAA64BF00B4690A /* TestFunctions.swift */,
 			);
 			path = AutomationTestingTutorial;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5EDE26352AAA649100B4690A /* ContentView.swift in Sources */,
+				5EDE265D2AAA64BF00B4690A /* TestFunctions.swift in Sources */,
 				5EDE26332AAA649100B4690A /* AutomationTestingTutorialApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
